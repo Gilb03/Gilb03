@@ -1,6 +1,6 @@
 Hey, I'm Gil. I'm a full stack web developer in Chicago, currently learning about ETL & Data+
 
-🌱 Learning ETL and Airflow   
+🌱 Learning Airflow   
 
 📫 How to reach me? If you have any questions, you can reach me at gilbertking91@gmail.com or <a href="https://www.gilbertbking.com">my website</a>
 
