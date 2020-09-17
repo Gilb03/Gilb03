@@ -1,5 +1,7 @@
 Hey,call me Gil. I'm a web developer in Chicago, currently in school studying Analytics & Insights+
 
+ 513 -> 219
+
 🌱 Learning Airflow
 
 📫 How to reach me? If you have any questions, you can reach me at gilbertking91@gmail.com. 
