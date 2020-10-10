@@ -2,8 +2,8 @@ Hey, I'm Gil. I'm a web developer, currently in school studying Analytics & Insi
 
  5️⃣1️⃣3️⃣ ✈️ 2️⃣1️⃣9️⃣
 
-🌱 Learning Airflow 
-🎨 Making cool things 
+🌱 Learning Airflow <br>
+🎨 Making cool things <br>
 🤝 Helping folks along the journey
 
 📫 If you have any questions, or would want to connect on a project you can reach me at gilbertking91@gmail.com. 
