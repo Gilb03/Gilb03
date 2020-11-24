@@ -1,4 +1,4 @@
-Hey, I'm Gil, I'mcurrently in school studying Analytics & Insights+
+Hey, I'm Gil, I'm currently in school studying Analytics & Insights+
 
 
 
