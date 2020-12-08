@@ -1,4 +1,5 @@
-Hey, I'm Gil, I'm currently in school studying Analytics & Insights+
+Hey, I'm Gil, I'm currently in school studying Analytics & Insights+ <br>
+I am a dynamic and motivated professional skilled in Excel, Tableau, SQL and Project Management. Strong Business Analytics professional with a Bachelor of Science (B.S.) focused in Marketing and International Business from Xavier University, and currently pursuing a M.S in Business Analytics with a concentration in Data Science from the Kellstadt Graduate School of Business.
 
 
 
