@@ -1,6 +1,6 @@
 Hey, I'm Gil, I'm currently in school studying Analytics & Insights+ <br>
 <br>
- <strong> Creator | Educator | Entertainer </strong>
+ <strong> Creator | Engineering Analyst | Educator </strong>
 <br>
 <br>
 I am a dynamic and motivated professional skilled in Excel, Tableau, SQL and Project Management. Strong Business Analytics professional with a Bachelor of Science (B.S.) focused in Marketing and International Business from Xavier University, and currently pursuing a M.S in Business Analytics with a concentration in Data Science from the Kellstadt Graduate School of Business.
@@ -16,4 +16,3 @@ I am a dynamic and motivated professional skilled in Excel, Tableau, SQL and Pro
 <strong>languages & tools</strong> <br>
 
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;"></a> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width: 100%;"></a> 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a> 
