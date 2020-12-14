@@ -9,7 +9,7 @@ I am a dynamic and motivated professional skilled in Excel, Tableau, SQL and Pro
 
 🎨 Making interesting things <br>
 💡 Inspiring others <br>
-🤝 Helping folks along the journey
+🤝 Teaching folks and learning along the journey
 
 📫 You want to connect to chat about analytics or seeking advice on a project? Connect with me on <a href="https://www.linkedin.com/in/gilbertking/">LinkedIn</a>
 
