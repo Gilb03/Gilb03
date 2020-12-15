@@ -7,12 +7,12 @@ I am a dynamic and motivated professional skilled in Excel, Tableau, SQL and Pro
 
 
 
-🎨 Making interesting things <br>
-💡 Inspiring others <br>
-🤝 Teaching folks and learning along the journey
+🎨 Creating interesting things <br>
+💡 Inspiring others to learn <br>
+🤝 Working together along the journey
 
-📫 You want to connect to chat about analytics or seeking advice on a project? Connect with me on <a href="https://www.linkedin.com/in/gilbertking/">LinkedIn</a>
+📫 You want to connect to chat about analytics or are seeking advice on a project? Connect with me on <a href="https://www.linkedin.com/in/gilbertking/">LinkedIn</a>
 
-<strong>languages & tools</strong> <br>
+<strong>Languages & Tools</strong> <br>
 
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;"></a> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a>
