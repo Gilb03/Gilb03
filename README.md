@@ -1,4 +1,5 @@
-Hey, I'm Gil. Currently in school studying Analytics & Insights+ <br>
+Hey, I'm Gil🤓 <br>
+Currently in school studying Analytics & Insights📈+ <br>
 <br>
  <strong> Engineer |  Analyst | Educator </strong>
 <br>
@@ -11,7 +12,7 @@ I am a dynamic and motivated professional skilled in Excel, Tableau, SQL and Pro
 💡 Inspiring others to learn <br>
 🤝 Working together along the journey
 
-📫 You want to connect to chat about analytics or are seeking advice on a project? Connect with me on <a href="https://www.linkedin.com/in/gilbertking/">LinkedIn</a>
+📫 You want to connect to chat about analytics? Connect with me on <a href="https://www.linkedin.com/in/gilbertking/">LinkedIn</a>
 
 <strong>Languages & Tools</strong> <br>
 
