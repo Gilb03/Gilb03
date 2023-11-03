@@ -1,5 +1,4 @@
-Hi, call me Gil🤓 <br>
-Currently in school studying Analytics & Insights📈+ <br>
+Hi, call me Gil
 <br>
  <strong> Engineer |  Analyst | Educator </strong>
 <br>
